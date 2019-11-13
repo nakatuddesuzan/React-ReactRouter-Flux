@@ -76,23 +76,7 @@
       "title": "React Volume 1",
       "authorId": 1,
       "category": "ReactJs",
-      "createdAt": 1573070072361
-    },
-    {
-      "id": 12,
-      "slug": "react-volume-1",
-      "title": "React Volume 1",
-      "authorId": 1,
-      "category": "ReactJs",
-      "createdAt": 1573070215749
-    },
-    {
-      "id": 13,
-      "slug": "react-volume-1",
-      "title": "React Volume 1",
-      "authorId": 1,
-      "category": "ReactJs",
-      "createdAt": 1573070264833
+      "createdAt": 1573666749901
     }
   ],
   "authors": [
