@@ -7,6 +7,7 @@ function CourseList(props) {
     <table className="table">
       <thead>
         <tr>
+          <th>&nbsp;</th>
           <th>Title</th>
           <th>Author Id</th>
           <th>Category</th>
@@ -35,7 +36,7 @@ CourseList.propTypes = {
       id: PropTypes.number.isRequired,
       title: PropTypes.string.isRequired,
       authorId: PropTypes.number.isRequired,
-      category: PropTypes.string.string
+      category: PropTypes.string.isRequired
     })
   ).isRequired
 };
